@@ -49,13 +49,11 @@ clinical-data-dashboard/
 
 ---
 
-### 3. احفظ الملف (`Ctrl + S`)
+### ✅ بعد ما تعدله:
 
----
-
-### 4. افتح التيرمنال في VS Code، وادخل:
+افتح التيرمنال واكتب:
 
 ```bash
 git add README.md
-git commit -m "Add professional README file"
+git commit -m "Fix README conflict and finalize"
 git push origin main
